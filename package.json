@@ -1,0 +1,21 @@
+{
+  "name": "jn-each",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jnxyx/jn-each",
+  "author": {
+    "name": "Yun Xiang Xu",
+    "url": "https://github.com/jnxyx"
+  },
+  "repository": "jnxyx/jn-each",
+  "bugs": {
+    "url": "https://github.com/jnxyx/jn-each"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
